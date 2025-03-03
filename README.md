@@ -28,9 +28,9 @@ GOOGLE_API_KEY=your_google_api_key_here
 - Type your question in the input box and get AI-generated answers based on the uploaded PDFs.
 
 ## Tech Stack
-Python
-Streamlit
-Google Gemini AI
-FAISS (Facebook AI Similarity Search)
-LangChain
-PyPDF2
+- Python
+- Streamlit
+- Google Gemini AI
+- FAISS (Facebook AI Similarity Search)
+- LangChain
+- PyPDF2
