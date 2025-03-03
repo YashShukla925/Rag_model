@@ -12,8 +12,7 @@ This is a **Streamlit-based** application that allows users to upload PDF files 
 - 🤖 Answer questions based on PDF content using Gemini AI  
 
 ## 🛠️ Setup Instructions
-
-### 1️⃣ Clone the Repository  
+  
 ```sh
 git clone https://github.com/yourusername/qna-with-pdf.git
 cd qna-with-pdf
